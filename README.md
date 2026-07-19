@@ -38,14 +38,14 @@ https://notebooklm.google.com/notebook/a52105e9-aca9-46d8-8c71-f21824db55d7
 
 ### Home Page
 
-![Home](home.png)
+![Home](home_page.png)
 
 ### Mind Map
 
-![Mind Map](mindmap.png)
+![Mind Map](mindmaps.png)
 
 ### Study Guide
 
-![Study Guide](study-guide.png)
+![Study Guide](study_guide.png)
 
 
