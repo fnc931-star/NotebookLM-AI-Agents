@@ -33,3 +33,19 @@ Through this project I learned:
 ## Notebook Link
 
 https://notebooklm.google.com/notebook/a52105e9-aca9-46d8-8c71-f21824db55d7
+
+## Screenshots
+
+### Home Page
+
+![Home](home.png)
+
+### Mind Map
+
+![Mind Map](mindmap.png)
+
+### Study Guide
+
+![Study Guide](study-guide.png)
+
+
